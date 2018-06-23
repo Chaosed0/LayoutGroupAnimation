@@ -1,0 +1,46 @@
+=============== 
+Unity generated
+===============
+Temp/
+Library/
+LightingData.asset*
+ReflectionProbe-*
+
+=====================================
+Visual Studio / MonoDevelop generated
+=====================================
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.csproj
+*.vs
+============
+OS generated
+============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+*.blend1*
+*.blend2*
+
+RTS/Assets/_Scenes/TestMap.meta
+RTS/Assets/Materials/Structure/Terrain.mat
+RTS/Assets/Materials/WorldEditor/EditorGrid.mat
+RTS/Assets/Materials/WorldEditor/TerrainBrush*.mat
+RTS/Assets/Resources/SplatMaps/splatMap-temp*
+RTS/Assets/ProCore/*
+RTS/Assets/ProCore.meta
+ShaderForge*
